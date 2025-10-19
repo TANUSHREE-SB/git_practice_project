@@ -1,4 +1,4 @@
 # git_practice_project
-'dummy practise repository for internship'
+'Dummy practice repository for Internship'
 <br>
 Author - Tanushree SB
