@@ -10,3 +10,6 @@ print("Integer Division:", b // a)
 print("Modulus:", b % a)
 print('hey there how are you doing')
 print('2222444455557777999')
+print("car")
+print("raghav")
+
